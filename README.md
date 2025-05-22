@@ -1,0 +1,1 @@
+The AI-Powered Symptom Checker & Triage Tool is a tool which features an interactive interface for users to input their symptoms and will then leverage a generative AI model to provide guidance on potential next steps.
